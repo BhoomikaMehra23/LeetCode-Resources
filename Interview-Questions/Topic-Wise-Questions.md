@@ -81,7 +81,7 @@
 - ✅ [N-Queens](https://leetcode.com/problems/n-queens/)  
 - ✅ [Word Search](https://leetcode.com/problems/word-search/)  
 
-🔹 **More:** [Backtracking Problems - Codeforces](https://codeforces.com/problemset?tags=backtracking)  
+🔹 **More:** [Recursion Problems - LeetCode](https://leetcode.com/problem-list/recursion/)  
 
 ---
 
