@@ -19,4 +19,4 @@ Microsoft interviews cover **Arrays, Trees, Linked Lists, and Object-Oriented De
 
 📜 **More resources:**  
 📌 [Microsoft Interview Guide - Interview Bit](https://www.interviewbit.com/microsoft-interview-questions/)  
-📌 [Microsoft Interview Experience - GeeksforGeeks](https://www.geeksforgeeks.org/my-microsoft-interview-experience/)  
+📌 [Microsoft Interview Experience - GeeksforGeeks](https://www.geeksforgeeks.org/microsoft-interview-experience/)  
