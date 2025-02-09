@@ -42,6 +42,6 @@ Graph types: **Directed, Undirected, Weighted, Unweighted**.
 ---
 
 ## **📌 Additional Resources**
-📜 **[Tree Traversals Explained](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)**
+📜 **[Tree Traversals Explained](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)** <br>
 📜 **[Graph Algorithms Explained](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)**
 
