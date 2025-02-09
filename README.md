@@ -51,11 +51,11 @@ Each topic includes:
 | 📂 **Topic**          | 🔗 **Resource Link** |
 |----------------------|---------------------|
 | **Arrays & Strings** | [Arrays.md](./DSA-Topics/Arrays.md) |
-| **Linked List**      | [LinkedList.md](./DSA-Topics/LinkedList.md) |
-| **Stack & Queue**    | [StackQueue.md](./DSA-Topics/StackQueue.md) |
-| **Binary Trees**     | [BinaryTree.md](./DSA-Topics/BinaryTree.md) |
-| **Graphs**          | [Graphs.md](./DSA-Topics/Graphs.md) |
-| **Dynamic Programming** | [DynamicProgramming.md](./DSA-Topics/DynamicProgramming.md) |
+| **Linked List**      | [LinkedList.md](./DSA-Topics/LinkedLists.md) |
+| **Stack & Queue**    | [StackQueue.md](./DSA-Topics/Stack-Queues.md) |
+| **Trees**            | [Trees.md](./DSA-Topics/Trees.md) |
+| **Graphs**          | [Graph-Algorithms.md](./DSA-Topics/Graph-Algorithms.md) |
+| **Dynamic Programming** | [Dynamic-Programming.md](./DSA-Topics/Dynamic-Programming.md) |
 | **System Design**    | [SystemDesign.md](./Interview-Questions/System-Design.md) |
 
 ---
