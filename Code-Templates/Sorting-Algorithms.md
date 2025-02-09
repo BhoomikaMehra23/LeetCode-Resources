@@ -28,7 +28,7 @@ class QuickSort {
         }
     }
 }
-
+```
 ## 📌 MergeSort (O(n log n))
 class MergeSort {
     void merge(int arr[], int left, int mid, int right) {
