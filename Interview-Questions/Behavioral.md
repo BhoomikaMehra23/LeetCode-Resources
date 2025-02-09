@@ -16,4 +16,5 @@ Behavioral interviews test **soft skills, leadership, and problem-solving abilit
 ✅ **How do you work in a team environment?**  
 ✅ **What is your biggest failure, and what did you learn from it?**  
 
+📜 **[Behavioral Questions](./Behavioral-Questions.md)**  
 📜 **[How to ace behavioral interviews](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)**  
