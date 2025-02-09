@@ -30,4 +30,3 @@ This guide is for **beginners** who want to start solving problems on **LeetCode
 🔹 **Sorting & Searching (Binary Search)**  
 
 📜 **Next?** Move to the [Intermediate Roadmap](./Intermediate.md) 🚀  
-
