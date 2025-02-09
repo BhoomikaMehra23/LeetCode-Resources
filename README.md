@@ -56,7 +56,7 @@ Each topic includes:
 | **Binary Trees**     | [BinaryTree.md](./DSA-Topics/BinaryTree.md) |
 | **Graphs**          | [Graphs.md](./DSA-Topics/Graphs.md) |
 | **Dynamic Programming** | [DynamicProgramming.md](./DSA-Topics/DynamicProgramming.md) |
-| **System Design**    | [SystemDesign.md](./DSA-Topics/SystemDesign.md) |
+| **System Design**    | [SystemDesign.md](./Interview-Questions/System-Design.md) |
 
 ---
 
