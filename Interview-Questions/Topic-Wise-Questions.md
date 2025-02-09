@@ -28,7 +28,7 @@
 - ✅ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
 - ✅ [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  
 
-🔹 **More:** [LeetCode DP Problems](https://leetcode.com/tag/dynamic-programming/)   
+🔹 **More:** [LeetCode DP Problems](https://leetcode.com/tag/dynamic-programming/) | [DP Problems on Codeforces](https://codeforces.com/problemset?tags=dp)     
 
 ---
 
@@ -61,7 +61,7 @@
 - ✅ [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  
 - ✅ [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  
 
-🔹 **More:** [Bitwise Tricks - CP Handbook](https://cses.fi/book/book.pdf)  
+🔹 **More:** [Bitwise Tricks - CP Handbook](https://cses.fi/book/book.pdf) |  [LeetCode Bit Manipulation Problems](https://leetcode.com/problem-list/bit-manipulation/) 
 
 ---
 
@@ -90,7 +90,7 @@
 - ✅ [Range Sum Query - Mutable (Segment Tree)](https://leetcode.com/problems/range-sum-query-mutable/)  
 - ✅ [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)  
 
-🔹 **More:** [CP-Algorithms - Segment Trees](https://cp-algorithms.com/data_structures/segment_tree.html)  
+🔹 **More:** [CP-Algorithms - Segment Trees](https://cp-algorithms.com/data_structures/segment_tree.html) | [LeetCode Linked List Problems](https://leetcode.com/tag/segment-tree/)  
 
 ---
 
