@@ -40,5 +40,5 @@ It can be **Singly Linked List (SLL), Doubly Linked List (DLL), or Circular Link
 
 ## **📌 Additional Resources**
 📜 **[Linked List Basics](https://www.geeksforgeeks.org/data-structures/linked-list/)**  
-📜 **[Neetcode’s Linked List Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53leU0Ec0VkBhnCq893V3fsNo)**
+📜 **[Leetcode’s Linked List Questions](https://leetcode.com/tag/linked-list/)**
 
