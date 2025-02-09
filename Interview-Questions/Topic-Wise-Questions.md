@@ -16,7 +16,7 @@
 - ✅ [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  
 - ✅ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  
 
-🔹 **More:** [LeetCode Array Problems](https://leetcode.com/tag/array/) | [NeetCode Strings Guide](https://neetcode.io/practice)  
+🔹 **More:** [LeetCode Array Problems](https://leetcode.com/tag/array/) | [LeetCode String Questions](https://leetcode.com/tag/string/)  
 
 ---
 
@@ -28,7 +28,7 @@
 - ✅ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
 - ✅ [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  
 
-🔹 **More:** [LeetCode DP Problems](https://leetcode.com/tag/dynamic-programming/) | [Striver’s DP Sheet](https://takeuforward.org/dynamic-programming/)  
+🔹 **More:** [LeetCode DP Problems](https://leetcode.com/tag/dynamic-programming/)   
 
 ---
 
