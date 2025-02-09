@@ -13,7 +13,8 @@
 ✅ [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  
 ✅ [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)  
 ✅ [Design Twitter](https://leetcode.com/problems/design-twitter/)  
-✅ [Alien Dictionary (Topological Sorting)](https://leetcode.com/problems/alien-dictionary/) <br>
+✅ [Alien Dictionary (Topological Sorting)](https://leetcode.com/problems/alien-dictionary/) 
+
 📜 **More:** [Google Questions ](https://github.com/BhoomikaMehra23/LeetCode-Resources/blob/main/Interview-Questions/Google-Interview.md/)  
 
 ---
@@ -25,7 +26,8 @@
 ✅ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  
 ✅ [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  
 ✅ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  
-✅ [Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/) <br> 
+✅ [Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/) 
+
 📜 **More:** [Amazon Questions ](https://github.com/BhoomikaMehra23/LeetCode-Resources/blob/main/Interview-Questions/Amazon-Interview.md/)  
 
 ---
