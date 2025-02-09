@@ -1,15 +1,35 @@
-# 📚 LeetCode Resources 🚀  
-A **one-stop guide** for learning **LeetCode**, mastering **Data Structures & Algorithms**, and preparing for **technical interviews** at top companies like Google, Amazon, Meta, and more.  
+<h1 align="center">📚 LeetCode Resources 🚀</h1>
+
+<p align="center">
+A **one-stop guide** for mastering **LeetCode, Data Structures & Algorithms (DSA), and preparing for FAANG interviews!**  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/BhoomikaMehra23/LeetCode-Resources?style=social" />
+  <img src="https://img.shields.io/github/forks/BhoomikaMehra23/LeetCode-Resources?style=social" />
+  <img src="https://img.shields.io/github/issues/BhoomikaMehra23/LeetCode-Resources?color=yellow" />
+  <img src="https://img.shields.io/github/contributors/BhoomikaMehra23/LeetCode-Resources?color=blue" />
+</p>
 
 ---
 
-## 📌 What You’ll Find Here
+## 📌 **What You’ll Find Here**
 ✔ **Step-by-Step LeetCode Roadmap (Beginner → Advanced)**  
 ✔ **Topic-wise LeetCode Problems with Solutions & Explanations**  
 ✔ **FAANG-Specific Interview Questions**  
 ✔ **Code Templates for Common Patterns**  
 ✔ **Recommended Books & Online Courses**  
 ✔ **DSA Cheatsheets for Quick Revision**  
+
+---
+
+## 🚀 **Quick Start Guide**
+1️⃣ **Fork & Star** this repo ⭐  
+2️⃣ **Explore the Roadmap** 👉 [Click Here](./Roadmap/README.md)  
+3️⃣ **Start Practicing Topic-wise** 👉 [DSA Topics](./DSA-Topics/)  
+4️⃣ **Check FAANG-Specific Questions** 👉 [Interview Questions](./Interview-Questions/)  
+5️⃣ **Use Code Templates** 👉 [Code Templates](./Code-Templates/)  
+6️⃣ **Contribute & Help Others!** 🤝  
 
 ---
 
