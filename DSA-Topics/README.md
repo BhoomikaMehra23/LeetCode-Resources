@@ -25,7 +25,8 @@ This section contains **topic-wise explanations** and **handpicked LeetCode prob
 🔹 **[Sorting & Searching](./Sorting-Searching.md)** → Binary search, merge sort  
 🔹 **[Dynamic Programming](./Dynamic-Programming.md)** → Fibonacci, Knapsack, LIS  
 🔹 **[Graphs](./Graph-Algorithms.md)** → BFS, DFS, shortest paths  
-🔹 **[Trees & Graphs](./Trees-Graphs.md)** → Traversals, lowest common ancestor  
+🔹 **[Trees & Graphs](./Trees-Graphs.md)** → Traversals, lowest common ancestor
+🔹 **[Segment Trees](./Segment-Trees.md)** → Build Tree, Query, Update  
 🔹 **[Tries](./Tries.md)** → Prefix trees, word search  
 🔹 **[Bit Manipulation](./Bit-Manipulation.md)** → XOR tricks, bitwise operations  
 🔹 **[Math & Number Theory](./Math.md)** → GCD, modular arithmetic  
