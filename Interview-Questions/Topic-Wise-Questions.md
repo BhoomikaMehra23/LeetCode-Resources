@@ -95,7 +95,7 @@
 ---
 
 ## **📌 More Resources**
-🔹 **LeetCode Top 150 Problems:** [NeetCode Guide](https://neetcode.io/)  
+🔹 **LeetCode Top 150 Problems:** [LeetCode Guide](https://leetcode.com/studyplan/top-interview-150/)  
 🔹 **Striver’s SDE Sheet:** [Full Question List](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)  
 🔹 **CodeForces Problem Set:** [Competitive Programming Questions](https://codeforces.com/problemset)  
 
