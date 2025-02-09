@@ -30,6 +30,8 @@ class QuickSort {
 }
 ```
 ## 📌 MergeSort (O(n log n))
+```java
+
 class MergeSort {
     void merge(int arr[], int left, int mid, int right) {
         int n1 = mid - left + 1;
@@ -58,5 +60,5 @@ class MergeSort {
         }
     }
 }
-
+```
 
