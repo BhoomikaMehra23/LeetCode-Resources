@@ -8,7 +8,7 @@ It is used for **efficient computations** (O(1) operations).
 | Operator | Symbol | Example |
 |----------|--------|---------|
 | AND | `&` | `5 & 3 = 1` |
-| OR | ``|`` | `5 | 3 = 7` |
+| OR | &#124; &#124; | `5 &#124; 3 = 7` |
 | XOR | `^` | `5 ^ 3 = 6` |
 | Left Shift | `<<` | `5 << 1 = 10` |
 | Right Shift | `>>` | `5 >> 1 = 2` |
