@@ -39,5 +39,5 @@ A **Queue (FIFO - First In, First Out)** allows insertion at rear and removal fr
 ---
 
 ## **📌 Additional Resources**
-📜 **[Stack vs Queue Explained](https://www.geeksforgeeks.org/difference-between-stack-and-queue/)**  
-📜 **[Monotonic Stack Explained](https://leetcode.com/discuss/general-discussion/786126/python-monotonic-stack-explained)**
+📜 **[Stack vs Queue Explained](https://www.simplilearn.com/tutorials/data-structure-tutorial/stacks-and-queues/)**  
+📜 **[Monotonic Stack Explained](https://medium.com/@florian_algo/introduction-to-monotonic-stack-that-everyone-can-understand-e5f54467faaf/)**
