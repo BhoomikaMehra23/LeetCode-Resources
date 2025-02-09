@@ -36,5 +36,6 @@ Dynamic Programming (DP) is an optimization technique used to solve problems by 
 
 ## **📌 Additional Resources**
 📜 **[Dynamic Programming Explained](https://www.geeksforgeeks.org/dynamic-programming/)**
+
 📜 **[Top DP Problems](https://leetcode.com/discuss/general-discussion/662866/dynamic-programming-patterns-top-down-vs-bottom-up)**
 
