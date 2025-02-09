@@ -1,7 +1,7 @@
 <h1 align="center">📚 LeetCode Resources 🚀</h1>
 
 <p align="center">
-A ** one-stop guide ** for mastering **LeetCode, Data Structures & Algorithms (DSA), and preparing for FAANG interviews! **  
+A **one-stop guide** for mastering **LeetCode, Data Structures & Algorithms (DSA), and preparing for FAANG interviews!**
 </p>
 
 <p align="center">
