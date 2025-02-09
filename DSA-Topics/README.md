@@ -15,21 +15,22 @@ This section contains **topic-wise explanations** and **handpicked LeetCode prob
 ---
 
 ## **📌 List of DSA Topics**  
-📂 Click on a topic to access the guide & problems:  
+Click on a topic to access the guide & problems:
 
-🔹 **[Arrays](./Arrays.md)** → Sliding window, two-pointer, sorting  
-🔹 **[Strings](./Strings.md)** → Pattern matching, anagrams, palindromes  
-🔹 **[Linked Lists](./LinkedLists.md)** → Reversal, merging, cycle detection  
-🔹 **[Stacks & Queues](./Stacks-Queues.md)** → Monotonic stack, LRU cache  
-🔹 **[Recursion & Backtracking](./Recursion-Backtracking.md)** → Subsets, permutations, N-Queens  
-🔹 **[Sorting & Searching](./Sorting-Searching.md)** → Binary search, merge sort  
-🔹 **[Dynamic Programming](./Dynamic-Programming.md)** → Fibonacci, Knapsack, LIS  
-🔹 **[Graphs](./Graph-Algorithms.md)** → BFS, DFS, shortest paths  
-🔹 **[Trees & Graphs](./Trees-Graphs.md)** → Traversals, lowest common ancestor
-🔹 **[Segment Trees](./Segment-Trees.md)** → Build Tree, Query, Update 
-🔹 **[Tries](./Tries.md)** → Prefix trees, word search  
-🔹 **[Bit Manipulation](./Bit-Manipulation.md)** → XOR tricks, bitwise operations  
-🔹 **[Math & Number Theory](./Math.md)** → GCD, modular arithmetic  
+🔹 **Arrays** → Sliding window, two-pointer, sorting  
+🔹 **Strings** → Pattern matching, anagrams, palindromes  
+🔹 **Linked Lists** → Reversal, merging, cycle detection  
+🔹 **Stacks & Queues** → Monotonic stack, LRU cache  
+🔹 **Recursion & Backtracking** → Subsets, permutations, N-Queens  
+🔹 **Sorting & Searching** → Binary search, merge sort  
+🔹 **Dynamic Programming** → Fibonacci, Knapsack, LIS  
+🔹 **Graphs** → BFS, DFS, shortest paths  
+🔹 **Trees & Graphs** → Traversals, lowest common ancestor  
+🔹 **Segment Trees** → Build Tree, Query, Update  
+🔹 **Tries** → Prefix trees, word search  
+🔹 **Bit Manipulation** → XOR tricks, bitwise operations  
+🔹 **Math & Number Theory** → GCD, modular arithmetic  
+
 
 ---
 
