@@ -19,4 +19,4 @@ Amazon places a strong emphasis on **Behavioral Interviews**, **DSA**, and **Sys
 
 📜 **More resources:**  
 📌 [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)  
-📌 [Amazon Interview Guide - LeetCode](https://leetcode.com/discuss/interview-question/125058/)  
+📌 [Amazon Interview Guide - Interview Bit](https://www.interviewbit.com/amazon-interview-questions/)  
