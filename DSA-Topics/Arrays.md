@@ -43,4 +43,4 @@ It allows **random access** but has **fixed size** in static languages (C, Java)
 ## **📌 Additional Resources**
 📜 **[Sliding Window Guide](https://www.geeksforgeeks.org/window-sliding-technique/)**  
 📜 **[Leetcode's Array Questions](https://leetcode.com/tag/array/)**  
-📜 **[Leetcode's Array Playlist](https://www.youtube.com/playlist?list=PLi9RQVmJD2fYnxX0pc6U6OZRfddmYT1pF)**
+📜 **[GFG Array Questions](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)**
