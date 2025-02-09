@@ -1,12 +1,12 @@
-# 📂 Code Templates - Quick Reference
+# 📂 Code Templates - Quick Reference (Java)
 
-## **📌 How to Use This Folder?**  
-📝 This folder contains **reusable code snippets** for commonly used DSA patterns.  
-🚀 Use these templates in LeetCode, coding interviews, and contests.
+## 📌 How to Use?
+📝 This folder contains **reusable Java code snippets** for commonly used **DSA patterns**.  
+⚡ Use these templates to solve **LeetCode, coding interviews, and competitive programming problems** faster.
 
 ---
 
-## **📌 Template Categories**
+## 📌 Template Categories
 📂 **Sorting Algorithms** - QuickSort, MergeSort, etc.  
 📂 **Recursion & Backtracking** - Subsets, N-Queens, etc.  
 📂 **Dynamic Programming** - Knapsack, LIS, etc.  
@@ -15,9 +15,4 @@
 📂 **Trie & String Manipulation** - AutoComplete, LCS, etc.  
 📂 **System Design Templates** - LRU Cache, Rate Limiter, etc.  
 
----
-
-## **📌 Next Steps**
-🛠 **Copy-paste templates to solve LeetCode problems faster.**  
-📜 **Modify them as needed for different problems.**  
-🚀 **Ace your FAANG interview!**  
+🚀 **Copy these templates, modify them as needed, and ace your FAANG interview!**
