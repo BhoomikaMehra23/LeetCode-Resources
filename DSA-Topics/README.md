@@ -21,13 +21,13 @@ This section contains **topic-wise explanations** and **handpicked LeetCode prob
 🔹 **[Strings](./Strings.md)** → Pattern matching, anagrams, palindromes  
 🔹 **[Linked Lists](./LinkedLists.md)** → Reversal, merging, cycle detection  
 🔹 **[Stacks & Queues](./Stacks-Queues.md)** → Monotonic stack, LRU cache  
-🔹 **[Recursion & Backtracking](./Recursion.md)** → Subsets, permutations, N-Queens  
+🔹 **[Recursion & Backtracking](./Recursion-Backtracking.md)** → Subsets, permutations, N-Queens  
 🔹 **[Sorting & Searching](./Sorting-Searching.md)** → Binary search, merge sort  
-🔹 **[Dynamic Programming](./DynamicProgramming.md)** → Fibonacci, Knapsack, LIS  
-🔹 **[Graphs](./Graphs.md)** → BFS, DFS, shortest paths  
-🔹 **[Trees & Binary Search Trees](./Trees.md)** → Traversals, lowest common ancestor  
+🔹 **[Dynamic Programming](./Dynamic-Programming.md)** → Fibonacci, Knapsack, LIS  
+🔹 **[Graphs](./Graphs-Algorithms.md)** → BFS, DFS, shortest paths  
+🔹 **[Trees & Graphs](./Trees-Graphs.md)** → Traversals, lowest common ancestor  
 🔹 **[Tries](./Tries.md)** → Prefix trees, word search  
-🔹 **[Bit Manipulation](./BitManipulation.md)** → XOR tricks, bitwise operations  
+🔹 **[Bit Manipulation](./Bit-Manipulation.md)** → XOR tricks, bitwise operations  
 🔹 **[Math & Number Theory](./Math.md)** → GCD, modular arithmetic  
 
 ---
