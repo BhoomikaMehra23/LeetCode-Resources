@@ -47,4 +47,5 @@ Searching algorithms help in finding an element efficiently.
 
 ## **📌 Additional Resources**
 📜 **[Sorting Algorithms Explained](https://www.geeksforgeeks.org/sorting-algorithms/)**
+
 📜 **[Binary Search Guide](https://www.topcoder.com/thrive/articles/Binary%20Search)**
