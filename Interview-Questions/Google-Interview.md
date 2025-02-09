@@ -19,5 +19,5 @@ Google focuses on **Data Structures & Algorithms (DSA), System Design, and Probl
 🔹 **Design a Distributed Cache System**  
 
 📜 **More resources:**  
-📌 [Google Interview Experience - GeeksforGeeks](https://www.geeksforgeeks.org/my-google-interview-experience/)  
-📌 [Google Interview Guide - LeetCode](https://leetcode.com/discuss/interview-question/124849/)  
+📌 [Google Interview Experience - GeeksforGeeks](https://www.geeksforgeeks.org/google-interview-experience/)  
+📌 [Google Interview Guide - Interview Bit](https://www.interviewbit.com/google-interview-questions/)  
