@@ -17,8 +17,8 @@ This section contains **topic-wise explanations** and **handpicked LeetCode prob
 ## **📌 List of DSA Topics**  
 Click on a topic to access the guide & problems:
 
-🔹 [**Arrays**] (LeetCode-Resources/DSA-Topics/Arrays.md) → Sliding window, two-pointer, sorting  
-🔹 [**Strings**](/LeetCode-Resources/DSA-Topics/Strings.md) → Pattern matching, anagrams, palindromes  
+🔹 [**Arrays**](/DSA-Topics/Arrays.md) → Sliding window, two-pointer, sorting  
+🔹 [**Strings**](/DSA-Topics/Strings.md) → Pattern matching, anagrams, palindromes  
 🔹 [**Linked Lists**](./DSA-Topics/LinkedLists.md) → Reversal, merging, cycle detection  
 🔹 [**Stacks & Queues**](./DSA-Topics/Stacks-Queues.md) → Monotonic stack, LRU cache  
 🔹 [**Recursion & Backtracking**](./DSA-Topics/Recursion-Backtracking.md) → Subsets, permutations, N-Queens  
