@@ -41,6 +41,9 @@
 ✅ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
 ✅ [Accounts Merge](https://leetcode.com/problems/accounts-merge/)  
 
+📜 **More:** [Facebook Questions ](https://github.com/BhoomikaMehra23/LeetCode-Resources/blob/main/Interview-Questions/Meta-Interview.md/)  
+
+
 ---
 
 ## **📌 Microsoft Interview Questions**  
@@ -51,6 +54,8 @@
 ✅ [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
 ✅ [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)  
 ✅ [Decode String](https://leetcode.com/problems/decode-string/)  
+
+📜 **More:** [Microsoft Questions ](https://github.com/BhoomikaMehra23/LeetCode-Resources/blob/main/Interview-Questions/Microsoft-Interview.md/)  
 
 ---
 
