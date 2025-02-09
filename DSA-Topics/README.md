@@ -19,17 +19,17 @@ Click on a topic to access the guide & problems:
 
 🔹 [**Arrays**](/DSA-Topics/Arrays.md) → Sliding window, two-pointer, sorting  
 🔹 [**Strings**](/DSA-Topics/Strings.md) → Pattern matching, anagrams, palindromes  
-🔹 [**Linked Lists**](./DSA-Topics/LinkedLists.md) → Reversal, merging, cycle detection  
-🔹 [**Stacks & Queues**](./DSA-Topics/Stacks-Queues.md) → Monotonic stack, LRU cache  
-🔹 [**Recursion & Backtracking**](./DSA-Topics/Recursion-Backtracking.md) → Subsets, permutations, N-Queens  
-🔹 [**Sorting & Searching**](./DSA-Topics/Sorting-Searching.md) → Binary search, merge sort  
-🔹 [**Dynamic Programming**](./DSA-Topics/Dynamic-Programming.md) → Fibonacci, Knapsack, LIS  
-🔹 [**Graph Algorithms**](./DSA-Topics/Graph-Algorithms.md) → BFS, DFS, shortest paths  
-🔹 [**Trees & Graphs**](./DSA-Topics/Trees-Graphs.md) → Traversals, lowest common ancestor  
-🔹 [**Segment Trees**](./DSA-Topics/Segment-Trees.md) → Build Tree, Query, Update  
-🔹 [**Tries**](./DSA-Topics/Tries.md) → Prefix trees, word search  
-🔹 [**Bit Manipulation**](./DSA-Topics/Bit-Manipulation.md) → XOR tricks, bitwise operations  
-🔹 [**Math & Number Theory**](./DSA-Topics/Math.md) → GCD, modular arithmetic  
+🔹 [**Linked Lists**](/DSA-Topics/LinkedLists.md) → Reversal, merging, cycle detection  
+🔹 [**Stacks & Queues**](/DSA-Topics/Stacks-Queues.md) → Monotonic stack, LRU cache  
+🔹 [**Recursion & Backtracking**](/DSA-Topics/Recursion-Backtracking.md) → Subsets, permutations, N-Queens  
+🔹 [**Sorting & Searching**](/DSA-Topics/Sorting-Searching.md) → Binary search, merge sort  
+🔹 [**Dynamic Programming**](/DSA-Topics/Dynamic-Programming.md) → Fibonacci, Knapsack, LIS  
+🔹 [**Graph Algorithms**](/DSA-Topics/Graph-Algorithms.md) → BFS, DFS, shortest paths  
+🔹 [**Trees & Graphs**](/DSA-Topics/Trees-Graphs.md) → Traversals, lowest common ancestor  
+🔹 [**Segment Trees**](/DSA-Topics/Segment-Trees.md) → Build Tree, Query, Update  
+🔹 [**Tries**](/DSA-Topics/Tries.md) → Prefix trees, word search  
+🔹 [**Bit Manipulation**](/DSA-Topics/Bit-Manipulation.md) → XOR tricks, bitwise operations  
+🔹 [**Math & Number Theory**](/DSA-Topics/Math.md) → GCD, modular arithmetic  
 
 ---
 
