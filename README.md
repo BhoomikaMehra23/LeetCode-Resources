@@ -28,7 +28,7 @@ A ** one-stop guide ** for mastering **LeetCode, Data Structures & Algorithms (D
 2️⃣ **Explore the Roadmap** 👉 [Click Here](./Roadmap/README.md)  
 3️⃣ **Start Practicing Topic-wise** 👉 [DSA Topics](./DSA-Topics/README.md)  
 4️⃣ **Check FAANG-Specific Questions** 👉 [Interview Questions](./Interview-Questions/README.md)  
-5️⃣ **Use Code Templates** 👉 [Code Templates](./Code-Templates/)  
+5️⃣ **Use Code Templates** 👉 [Code Templates](./Code-Templates/README.md)  
 6️⃣ **Contribute & Help Others!** 🤝  
 
 ---
