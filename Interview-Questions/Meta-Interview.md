@@ -19,4 +19,4 @@ Meta (Facebook) interviews focus on **Graph Algorithms, Recursion, and System De
 
 📜 **More resources:**  
 📌 [Meta Interview Guide - Interview Bit](https://www.interviewbit.com/facebook-interview-questions/)  
-📌 [Facebook Interview Experience - GeeksforGeeks](https://www.geeksforgeeks.org/my-facebook-interview-experience/)  
+📌 [Facebook Interview Experience - GeeksforGeeks](https://www.geeksforgeeks.org/facebook-interview-experience/)  
