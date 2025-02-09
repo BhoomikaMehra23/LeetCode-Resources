@@ -24,7 +24,7 @@ This section contains **topic-wise explanations** and **handpicked LeetCode prob
 🔹 **[Recursion & Backtracking](./Recursion-Backtracking.md)** → Subsets, permutations, N-Queens  
 🔹 **[Sorting & Searching](./Sorting-Searching.md)** → Binary search, merge sort  
 🔹 **[Dynamic Programming](./Dynamic-Programming.md)** → Fibonacci, Knapsack, LIS  
-🔹 **[Graphs](./Graphs-Algorithms.md)** → BFS, DFS, shortest paths  
+🔹 **[Graphs](./Graph-Algorithms.md)** → BFS, DFS, shortest paths  
 🔹 **[Trees & Graphs](./Trees-Graphs.md)** → Traversals, lowest common ancestor  
 🔹 **[Tries](./Tries.md)** → Prefix trees, word search  
 🔹 **[Bit Manipulation](./Bit-Manipulation.md)** → XOR tricks, bitwise operations  
