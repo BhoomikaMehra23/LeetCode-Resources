@@ -52,7 +52,7 @@ Each topic includes:
 |----------------------|---------------------|
 | **Arrays & Strings** | [Arrays.md](./DSA-Topics/Arrays.md) |
 | **Linked List**      | [LinkedList.md](./DSA-Topics/LinkedLists.md) |
-| **Stack & Queue**    | [StackQueue.md](./DSA-Topics/Stack-Queues.md) |
+| **Stack & Queue**    | [StackQueue.md](./DSA-Topics/Stacks-Queues.md) |
 | **Trees**            | [Trees.md](./DSA-Topics/Trees.md) |
 | **Graphs**          | [Graph-Algorithms.md](./DSA-Topics/Graph-Algorithms.md) |
 | **Dynamic Programming** | [Dynamic-Programming.md](./DSA-Topics/Dynamic-Programming.md) |
