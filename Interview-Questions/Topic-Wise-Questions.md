@@ -40,7 +40,7 @@
 - ✅ [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)  
 - ✅ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  
 
-🔹 **More:** [Graph Algorithms - NeetCode](https://neetcode.io/courses/graph) | [Graph Problems on Codeforces](https://codeforces.com/problemset?tags=graphs)  
+🔹 **More:** [Graph Questions - LeetCode](https://leetcode.com/problem-list/graph/) | [Graph Problems on Codeforces](https://codeforces.com/problemset?tags=graphs)  
 
 ---
 
